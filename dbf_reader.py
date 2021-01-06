@@ -1,5 +1,3 @@
-__all__ = ['queries']
-
 from dbfread import dbf
 
 table = dbf.DBF("data/Kommun_RT90_region.dbf")
